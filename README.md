@@ -12,28 +12,28 @@ A.cc Name: Adam DiCarlo
 Website: www.nbtsc.org/~bikko/
 
 
- Tools and Libraries Used
+Tools and Libraries Used
 -----------------------------------------------------------------------
 
- Compiler/IDE: g++ in mingw/linux
+Compiler/IDE: g++ in mingw/linux
 
- Platform: Linux & Windows
+Platform: Linux & Windows
 
- Language: C++
+Language: C++
 
- Other libraries used:
+Other libraries used:
 
-   * OpenLayer
-   * Box2D by Erin Catto (customized version; source included.)
+* OpenLayer
+* Box2D by Erin Catto (customized version; source included.)
 
 
- Notes on Compiling
+Notes on Compiling
 -----------------------------------------------------------------------
 
-   Change to Box2D directory and 'make' in there first.
+Change to Box2D directory and 'make' in there first.
 
 
- SpeedHack Rules
+SpeedHack Rules
 -----------------------------------------------------------------------
 
 RADIUS: Circular pushers deflect objects from two corners of the
@@ -53,7 +53,7 @@ DIALOGUE: Nope. Act of Generosity.
 RATIO, RESPECT: It runs in widescreen mode. Only, actually. Heh.
 
 
- About the Game
+About the Game
 -----------------------------------------------------------------------
 
 Knock around walruses, and knock around bukkits. Get the bukkits
@@ -61,10 +61,8 @@ in the goal zone to score points. If walruses find the bukkits,
 you can't score with them anymore.
 
 
- How to Play
+How to Play
 -----------------------------------------------------------------------
 
 Shift to change items. Space to fire current item. Arrows to aim.
 Instructions in title screen.
-
-
