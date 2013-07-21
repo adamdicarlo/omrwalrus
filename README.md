@@ -27,6 +27,21 @@ Other libraries used:
 * Box2D by Erin Catto (customized version; source included.)
 
 
+About the Game
+-----------------------------------------------------------------------
+
+Knock around walruses, and knock around bukkits. Get the bukkits
+in the goal zone to score points. If walruses find the bukkits,
+you can't score with them anymore.
+
+
+How to Play
+-----------------------------------------------------------------------
+
+Shift to change items. Space to throw current item; **hold space for
+stronger throws**. Arrows to aim. More instructions in title screen.
+
+
 Notes on Compiling
 -----------------------------------------------------------------------
 
@@ -51,18 +66,3 @@ you don't. (OK, the walruses are hungry, but nobody dies in the game.)
 DIALOGUE: Nope. Act of Generosity.
 
 RATIO, RESPECT: It runs in widescreen mode. Only, actually. Heh.
-
-
-About the Game
------------------------------------------------------------------------
-
-Knock around walruses, and knock around bukkits. Get the bukkits
-in the goal zone to score points. If walruses find the bukkits,
-you can't score with them anymore.
-
-
-How to Play
------------------------------------------------------------------------
-
-Shift to change items. Space to fire current item. Arrows to aim.
-Instructions in title screen.
