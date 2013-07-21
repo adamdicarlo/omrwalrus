@@ -1,0 +1,19 @@
+#ifndef __KT_COMMANDS_INCLUDED__
+#define __KT_COMMANDS_INCLUDED__
+
+namespace kt {
+
+	enum Command {
+		CMD_TOGGLEFULLSCREEN,
+		CMD_SCREENSHOT,
+		CMD_QUIT,
+		CMD_AIMLEFT,
+		CMD_AIMRIGHT,
+		CMD_FIRE,
+		CMD_NEXTITEM,
+  		CMD_STARTGAME
+	};
+	
+}
+
+#endif // __KT_COMMANDS_INCLUDED__
